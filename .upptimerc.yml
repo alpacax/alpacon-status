@@ -10,7 +10,7 @@ sites:
     url: https://alpacon.io/alpacax
 
 status-website:
-  baseUrl: /alpacon-status
+  cname: status.alpacax.com
   name: ""
   logoUrl: https://raw.githubusercontent.com/alpacax/alpacon-status/master/assets/logo.svg
   favicon: https://raw.githubusercontent.com/alpacax/alpacon-status/master/assets/icon.svg
@@ -20,6 +20,6 @@ status-website:
   maxPastIncidents: 10
   navbar:
     - title: Status
-      href: /alpacon-status
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
