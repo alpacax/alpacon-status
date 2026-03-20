@@ -5,9 +5,9 @@ sites:
   - name: Alpacon
     url: https://alpacon.io/
   - name: Alpacon API (AP1)
-    url: https://ap1.alpacon.io/api/
+    url: https://ap1.alpacon.io/api/auth/env/?client=web
   - name: Alpacon API (US1)
-    url: https://us1.alpacon.io/api/
+    url: https://us1.alpacon.io/api/auth/env/?client=web
   - name: Alpacon Docs
     url: https://docs.alpacax.com/
   - name: AlpacaX
