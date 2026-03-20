@@ -2,12 +2,16 @@ owner: alpacax
 repo: alpacon-status
 
 sites:
-  - name: AlpacaX Web
-    url: https://www.alpacax.com/
-  - name: Alpacon Docs
-    url: https://docs.alpacax.com/ko/
   - name: Alpacon
-    url: https://alpacon.io/alpacax
+    url: https://alpacon.io/
+  - name: Alpacon API (AP1)
+    url: https://ap1.alpacon.io/api/auth/env/?client=web
+  - name: Alpacon API (US1)
+    url: https://us1.alpacon.io/api/auth/env/?client=web
+  - name: Alpacon Docs
+    url: https://docs.alpacax.com/
+  - name: AlpacaX
+    url: https://www.alpacax.com/
 
 status-website:
   cname: status.alpacax.com
