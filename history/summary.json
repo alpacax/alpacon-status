@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 460,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "time": 454,
+    "timeDay": 470,
+    "timeWeek": 492,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ap1.alpacon.io.ico",
     "slug": "alpacon-api-ap-1",
     "status": "up",
-    "uptime": "6.69%",
-    "uptimeDay": "6.69%",
-    "uptimeWeek": "6.69%",
-    "uptimeMonth": "6.69%",
-    "uptimeYear": "6.69%",
-    "time": 789,
-    "timeDay": 789,
-    "timeWeek": 789,
-    "timeMonth": 789,
-    "timeYear": 789,
-    "dailyMinutesDown": {
-      "2026-03-20": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacon API (US1)",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/us1.alpacon.io.ico",
     "slug": "alpacon-api-us-1",
     "status": "up",
-    "uptime": "6.29%",
-    "uptimeDay": "6.29%",
-    "uptimeWeek": "6.29%",
-    "uptimeMonth": "6.29%",
-    "uptimeYear": "6.29%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {
-      "2026-03-20": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacon Docs",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 1128,
-    "timeWeek": 1157,
-    "timeMonth": 1157,
-    "timeYear": 1157,
+    "time": 1138,
+    "timeDay": 1131,
+    "timeWeek": 1084,
+    "timeMonth": 1138,
+    "timeYear": 1138,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1360,
-    "timeDay": 1360,
-    "timeWeek": 1360,
-    "timeMonth": 1360,
-    "timeYear": 1360,
+    "time": 1288,
+    "timeDay": 1288,
+    "timeWeek": 1288,
+    "timeMonth": 1288,
+    "timeYear": 1288,
     "dailyMinutesDown": {}
   }
 ]
