@@ -10,6 +10,12 @@ sites:
     url: https://us1.alpacon.io/api/auth/env/?client=web
   - name: Alpacon Docs
     url: https://docs.alpacax.com/
+  - name: Account
+    url: https://account.alpacax.com/health
+  - name: Payment
+    url: https://pay.alpacax.com/health
+  - name: Payment API
+    url: https://pay.alpacax.com/api/
   - name: AlpacaX
     url: https://www.alpacax.com/
 
