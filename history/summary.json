@@ -78,20 +78,20 @@
     "url": "https://www.alpacax.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alpacax.com.ico",
     "slug": "alpaca-x",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1420,
-    "timeDay": 1355,
-    "timeWeek": 1660,
-    "timeMonth": 1581,
-    "timeYear": 1420,
+    "time": 1421,
+    "timeDay": 1443,
+    "timeWeek": 1655,
+    "timeMonth": 1583,
+    "timeYear": 1421,
     "dailyMinutesDown": {
       "2026-09-21": 9,
-      "2026-10-03": 0
+      "2026-10-03": 3
     }
   }
 ]
